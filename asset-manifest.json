@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5fa2ba2.css",
+    "main.js": "/static/js/main.15e1f385.js",
+    "static/media/monkey.png": "/static/media/monkey.f659ec73750158319792.png",
+    "static/media/tiger.png": "/static/media/tiger.1d7e70b1a4a1f3c6bef9.png",
+    "static/media/animals_grid.jpg": "/static/media/animals_grid.d2cde7bb41b4e2a8b368.jpg",
+    "static/media/animals_bg.jpg": "/static/media/animals_bg.10c1639328b121fd2863.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a5fa2ba2.css",
+    "static/js/main.15e1f385.js"
+  ]
+}
